@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PowerPlay.iml" filepath="$PROJECT_DIR$/.idea/modules/PowerPlay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FtcRobotController/PowerPlay.FtcRobotController.iml" filepath="$PROJECT_DIR$/.idea/modules/FtcRobotController/PowerPlay.FtcRobotController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FtcRobotController/PowerPlay.FtcRobotController.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/FtcRobotController/PowerPlay.FtcRobotController.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FtcRobotController/PowerPlay.FtcRobotController.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FtcRobotController/PowerPlay.FtcRobotController.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FtcRobotController/PowerPlay.FtcRobotController.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/FtcRobotController/PowerPlay.FtcRobotController.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Team15091/PowerPlay.Team15091.iml" filepath="$PROJECT_DIR$/.idea/modules/Team15091/PowerPlay.Team15091.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Team15091/PowerPlay.Team15091.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Team15091/PowerPlay.Team15091.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Team15091/PowerPlay.Team15091.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Team15091/PowerPlay.Team15091.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Team15091/PowerPlay.Team15091.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Team15091/PowerPlay.Team15091.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamPractice/PowerPlay.TeamPractice.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamPractice/PowerPlay.TeamPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamPractice/PowerPlay.TeamPractice.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamPractice/PowerPlay.TeamPractice.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamPractice/PowerPlay.TeamPractice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamPractice/PowerPlay.TeamPractice.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamPractice/PowerPlay.TeamPractice.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamPractice/PowerPlay.TeamPractice.unitTest.iml" />
+    </modules>
+  </component>
+</project>
